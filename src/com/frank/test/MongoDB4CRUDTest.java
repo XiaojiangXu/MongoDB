@@ -155,7 +155,7 @@ public class MongoDB4CRUDTest {
 
 	}
 
-	// @Test
+	@Test
 	public void remove() {
 
 		queryAll();
